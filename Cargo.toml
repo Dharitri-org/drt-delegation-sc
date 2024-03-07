@@ -1,0 +1,10 @@
+[workspace]
+members = [
+  "node-storage",
+  "user-fund-storage",
+  
+  "auction-mock",
+  "auction-mock/meta",
+  "latest",
+  "latest/meta",
+]
